@@ -1,4 +1,4 @@
-let text1 = "I love mangos. mangoss are the best.";
+let text1 = "I love mangos. mangos are the best.";
 let result1 = text1.replace(/mangos/i, "oranges");
 console.log(result1);
 
